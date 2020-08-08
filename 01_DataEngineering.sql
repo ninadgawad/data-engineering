@@ -18,7 +18,7 @@ VALUES (1, 'MilkyWay', 'Sagittarius','Southeast',1310000000);
 
 /* Delete from Universe Table all galaxies which have age as NULL */
 DELETE FROM UNIVERSE
-WHERE AGE is null
+WHERE AGE is null;
 
 /* Group Galaxies By consellation */
 SELECT consellation, COUNT(*)
