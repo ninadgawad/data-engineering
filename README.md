@@ -13,3 +13,8 @@ Data engineering is the aspect of data science that focuses on practical applica
 - Data Architecture
 - Database Setup and Management
 - Data Infrastructure Design and build
+
+
+## Data Tools
+- Apache Airflow [https://airflow.apache.org/]
+- Pentaho Data Integration ( ETL ) a.k.a Kettle
