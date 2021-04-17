@@ -18,3 +18,7 @@ Data engineering is the aspect of data science that focuses on practical applica
 ## Data Tools
 - Apache Airflow [https://airflow.apache.org/]
 - Pentaho Data Integration ( ETL ) a.k.a Kettle
+
+
+## Data Engineering
+![Data Engineering](https://github.com/ninadgawad/data-engineering/blob/master/Data_Engg.jpg)
