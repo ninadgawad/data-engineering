@@ -25,10 +25,6 @@ Data engineering is the aspect of data science that focuses on practical applica
 ![Data Engineering](https://github.com/ninadgawad/data-engineering/blob/master/Data_Engg.jpg)
 
 
-
-
---- 
-
 ## Tradinal Data Warehousing 
 
 ## Slowly Changing Dimensions (SCD) Types
