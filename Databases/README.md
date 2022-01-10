@@ -17,3 +17,18 @@ In many cases, individuals find that they need different kinds of databases for 
 - Operational database
 - Personal database
 - Relational database
+
+
+### 1] Oracle Database
+Oracle Database is a multi-model database management system produced and marketed by Oracle Corporation. It is a database commonly used for running online transaction processing, data warehousing and mixed database workloads.
+
+
+### 2] MongoDB
+MongoDB is a general-purpose document database designed for modern application development and for the cloud. Its scale-out architecture allows you to meet the increasing demand for your system by adding more nodes to share the load.
+
+
+
+
+
+### Links:
+- https://www.mongodb.com/basics
