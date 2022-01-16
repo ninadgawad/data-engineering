@@ -24,7 +24,6 @@ Data engineering is the aspect of data science that focuses on practical applica
 ## Data Engineering
 ![Data Engineering](https://github.com/ninadgawad/data-engineering/blob/master/Data_Engg.jpg)
 
-
 ## Tradinal Data Warehousing 
 
 ## Slowly Changing Dimensions (SCD) Types
@@ -46,3 +45,8 @@ Show current value in dimension table but track all changes in separate table
 
 - Type 6 – Hybrid SCD
 Utilise techniques from SCD Types 1, 2 and 3 to track change
+
+
+## Links
+https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration
+
