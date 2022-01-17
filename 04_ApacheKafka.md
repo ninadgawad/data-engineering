@@ -6,5 +6,8 @@
 3) To process streams of events as they occur or retrospectively.
 
 
+### Defaults
+**Port:** 9092
+
 ## Links
 - https://kafka.apache.org/downloads
