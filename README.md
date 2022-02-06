@@ -48,5 +48,6 @@ Utilise techniques from SCD Types 1, 2 and 3 to track change
 
 
 ## Links
-https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration
+- https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration
+- https://www.talend.com/
 
