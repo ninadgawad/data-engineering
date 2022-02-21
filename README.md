@@ -20,6 +20,7 @@ Data engineering is the aspect of data science that focuses on practical applica
 - Pentaho Data Integration ( ETL/ELT ) a.k.a Kettle
 - AbInitio 
 - Informatica
+- Apache Spark
 
 ## Data Engineering
 ![Data Engineering](https://github.com/ninadgawad/data-engineering/blob/master/Data_Engg.jpg)
