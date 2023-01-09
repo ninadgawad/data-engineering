@@ -43,3 +43,4 @@ Add to your **pom.xml**
 
 ## Links
 - https://kafka.apache.org/downloads
+- https://docs.confluent.io/home/overview.html
