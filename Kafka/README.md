@@ -6,7 +6,25 @@
 3) To process streams of events as they occur or retrospectively.
 
 
-### Defaults
+## Sample Consumer
+```java
+Properties config = new Properties();
+config.put("client.id", InetAddress.getLocalHost().getHostName());
+config.put("group.id", "galaxy");
+config.put("universe.servers", "host1:9092,host2:9092");
+new KafkaConsumer<K, V>(config);
+
+while (running) {
+  ConsumerRecords<K, V> records = consumer.poll(Long.MAX_VALUE);
+  process(records); // application-specific processing
+  consumer.commitSync();
+}
+
+```
+
+
+
+## Default Port
 **Port:** 9092
 
 ## Maven Dependeny
