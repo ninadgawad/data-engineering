@@ -34,4 +34,6 @@ MongoDB is a general-purpose document database designed for modern application d
 
 
 ### Links:
+- https://www.oracle.com/database/technologies/
 - https://www.mongodb.com/basics
+- https://martinfowler.com/articles/evodb.html
