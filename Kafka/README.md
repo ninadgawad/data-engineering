@@ -9,5 +9,15 @@
 ### Defaults
 **Port:** 9092
 
+## Maven Dependeny
+Add to your **pom.xml**
+```xml
+  <dependency>
+    <groupId>org.apache.kafka</groupId>
+    <artifactId>kafka-clients</artifactId>
+    <version>7.0.1-ccs</version>
+  </dependency>
+```
+
 ## Links
 - https://kafka.apache.org/downloads
