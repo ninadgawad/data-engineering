@@ -21,6 +21,7 @@ Data engineering is the aspect of data science that focuses on practical applica
 - AbInitio 
 - Informatica
 - Apache Spark
+- Apache Flink 
 
 ## Data Engineering
 ![Data Engineering](https://github.com/ninadgawad/data-engineering/blob/master/Data_Engg.jpg)
