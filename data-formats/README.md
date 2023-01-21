@@ -4,7 +4,7 @@
   - CSV
   - PSV
   
-- **Semi-Structrured
+- **Semi-Structrured**
   - JSON
   - XML
   - YML
