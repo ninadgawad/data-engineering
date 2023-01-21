@@ -1,15 +1,15 @@
 ## File Formats 
-- Unstructured
+- **Unstructured**
   - Text
   - CSV
   - PSV
   
-- Semi-Structrured
+- **Semi-Structrured
   - JSON
   - XML
   - YML
   
-- Structured
+- **Structured**
   - Avro
   - ORC
   - Parquet
