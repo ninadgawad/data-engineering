@@ -9,3 +9,10 @@ Before going further in understanding GraphQL, it's useful to get a sense of how
 
 ### GraphQL vs REST
 GraphQL is often touted as an alternative to REST APIs. In this section, we will look at the key differences between GraphQL and REST with an example and also look at how they both can co-exist and complement each other.
+
+
+### Data Types
+- GraphQL Queries - Fetching data
+- GraphQL Mutations - Writing data
+- GraphQL Subscriptions - Realtime updates
+
