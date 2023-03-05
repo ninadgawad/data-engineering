@@ -38,11 +38,12 @@ Data engineering is the aspect of data science that focuses on practical applica
 
 
 ### Sample Type2 SCD
-| REC SEQ ID   |   DATA_PK         |  START DATE | END DATE | ACTIVE FLAG|
-|----------|:-------------:|------:|------:|------:|------:|
-| 1001 | Phone1 | | |
-| 1002 | Phone2   | |  |
-| 1003 | Phone3 |   || |
+| SEQ_ID | PHONE_ID | START_DATE | ENDA_DATE | ACTIVE | PHONE_NAME | PRICE |
+|---|---|---|---|---|---|---|
+| 1001 | S101 | 1/1/2021 | 12/31/2022 | N | Sam | 1240 |
+| 1002 | S101 | 1/1/2023 | 12/31/9999 | Y | Sam v2 | 4560 |
+| 1002 | A202 | 5/10/2022 | 12/31/9999 | Y | App | 1425 |
+| 1003 | G103 | 3/5/2020 | 12/31/9999 | Y | Gog | 985 |
 
 
 ## Links
