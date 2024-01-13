@@ -3,11 +3,15 @@ Data engineering is the aspect of data science that focuses on practical applica
 
 ## Understanding of:
 - Data models
+- Data Ingestion
+- Feature Engineering
 - Relational and non-relational database design
 - Information flow
 - Query execution and optimization
 - Comparative analysis of data stores
 - Logical operations
+- Big Data Tools
+- Data Accessibility
 
 ## Data engineers may be responsible for:
 - Data Architecture
