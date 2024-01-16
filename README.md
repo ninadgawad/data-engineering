@@ -56,6 +56,14 @@ Data engineering is the aspect of data science that focuses on practical applica
 | 1003 | G103 | 3/5/2020 | 12/31/9999 | Y | Gog | 985 |
 | 1112 | S101 | 1/1/2023 | 12/31/9999 | Y | Sam v2 | 4560 |
 
+
+## Top 5 Java based Data Engineering Tools:
+- **Apache Hadoop**: Hadoop is an open-source framework for distributed storage and processing of large data sets. It includes the Hadoop Distributed File System (HDFS) for storage and MapReduce for parallel processing.
+- **Apache Spark**: Spark is a fast and general-purpose cluster-computing framework that provides in-memory data processing. It supports various programming languages, including Java/Scala/Python.
+- **Apache Kafka**: Kafka is a distributed streaming platform that is widely used for building real-time data pipelines and streaming applications.
+- **Apache Flink**: Flink is a stream processing framework for big data processing and analytics. It supports both batch and stream processing.
+- **Spring Batch**: Spring Batch is a framework for building batch processing applications in Java. It simplifies the development of robust and scalable batch applications.
+
 ## Links
 - https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration
 - https://www.talend.com/
