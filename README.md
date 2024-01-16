@@ -1,6 +1,13 @@
 # Data Engineering
 Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. The key to understanding what data engineering lies in the “engineering” part.  Engineers design and build things. “Data” engineers design and build pipelines that transform and transport data into a format wherein, by the time it reaches the Data Scientists or other end users, it is in a highly usable state.  These pipelines must take data from many disparate sources and collect them into a single warehouse that represents the data uniformly as a single source of truth. It is a critical discipline within the broader field of data management, focusing on the design, development, and maintenance of systems and architectures for collecting, storing, processing, and analyzing large volumes of data. It involves the creation of robust infrastructure, data pipelines, and workflows to ensure the efficient and reliable flow of data throughout an organization. Data Engineers play a key role in transforming raw data into a usable format for analysis, enabling businesses to derive valuable insights and make informed decisions.
 
+### List of various technologies related to this: 
+- Database management systems
+- ETL (Extract, Transform, Load) processes
+- Data Warehousing
+- Data Quality
+- Data Accessibility
+
 ## Understanding of:
 - Data models
 - Data Ingestion
