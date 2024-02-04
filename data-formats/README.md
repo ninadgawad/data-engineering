@@ -13,3 +13,6 @@
   - Avro
   - ORC
   - Parquet
+  - Delta
+  - Iceberg
+  - Protobuf
