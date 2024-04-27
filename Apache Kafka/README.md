@@ -16,3 +16,7 @@ Apache Kafka is an open-source distributed event streaming platform used for bui
 - Streams Processing: Kafka Streams and other stream processing frameworks enable real-time processing of data streams directly within Kafka, allowing for transformations, aggregations, and analytics on data as it flows through the system.
 - Connectors: Kafka Connect is a framework for building and running reusable data import/export connectors to integrate Kafka with external systems such as databases, message queues, and file systems.
 - Scalability and Fault-Tolerance: Kafka is designed to scale horizontally, allowing you to add more brokers to handle increased data throughput. It also provides fault-tolerance through data replication and leader election mechanisms.
+
+
+## Links:
+- [Apache Kafka](https://kafka.apache.org/)
