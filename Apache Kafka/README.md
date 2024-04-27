@@ -1,5 +1,8 @@
+![Apache Kafha](https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg)
 ## Apache Kafka
 Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications. Originally developed by LinkedIn and later open-sourced as a part of the Apache Software Foundation, Kafka is designed to handle large volumes of data in a fault-tolerant and scalable manner.
+
+
 
 
 ### Apache Kafka's key features and components:
