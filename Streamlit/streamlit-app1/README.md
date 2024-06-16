@@ -1,4 +1,6 @@
 ## Documentation:
+A python streamlit app to create, update, transition JIRA tickets using API calls from a streamlit application
+
 
 ### Imports and Constants:
 
